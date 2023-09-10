@@ -1,0 +1,16 @@
+.contactHeader{
+    margin-top: 143px;
+    gap: 20px;
+   
+}
+
+.contactHeader h1{
+    font-weight: 800;
+    font-size: 48px;
+}
+
+.contactHeader p{
+    max-width: 975px;
+    max-height: 72px;
+    
+}
